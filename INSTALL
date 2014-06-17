@@ -1,0 +1,9 @@
+Building nothingcoin
+
+See doc/readme-qt.rst for instructions on building nothingcoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of nothingcoin.
+
+See doc/build-*.txt for instructions on building nothingcoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of nothingcoin.
